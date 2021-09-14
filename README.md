@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Genomics, Bioinformatics, Data Science and Generative Art
 - 🌱 I’m currently learning ... Python for data science, Javascript for art
 - 💞️ I’m looking to collaborate on ... anything!
-- 📫 How to reach me ... insta @petrewoods twitter @PIWoods1
+- 📫 How to reach me ... 
 
 <!---
 petrewoods/petrewoods is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
